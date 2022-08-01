@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# 제 20회 임베디드 소프트웨어 경진대회 webOS부문 방파제팀
+2022 ESWContest webOS - 영상데이터 기반 스마트 서비스 개발
 <!--
 
 **Here are some ideas to get you started:**
