@@ -14,6 +14,9 @@
 
 <br/>
 
-## 개발 과정
-
-### 구성도
+## 팀 명단
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/77202633?v=4" width="100px;" alt=""/><br /><sub><b>윤민우</b></sub></a><br /><a href="https://github.com/ymw0407" title="Code">💻</a></td>
+  </tr>
+</table>
