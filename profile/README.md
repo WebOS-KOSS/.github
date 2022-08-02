@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/77202633?v=4" width="100px;" alt=""/><br/><sub><b>윤민우</b><sub></a></td>
-    <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/seiyoon" width="100px;" alt=""/><br/><sub><b>황세윤</b><sub></a></td>
+    <td align="center"><a href="https://github.com/seiyoon"><img src="https://avatars.githubusercontent.com/seiyoon" width="100px;" alt=""/><br/><sub><b>황세윤</b><sub></a></td>
     <td align="center"><a href="https://github.com/judyzero"><img src="https://avatars.githubusercontent.com/u/100904133?v=4" width="100px;" alt=""/><br/><sub><b>유다영</b></sub></a></td>
     <td align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/57091983?v=4" width="100px;" alt=""/><br/><sub><b>이준혁</b></sub></a></td>
     <td align="center"><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/39232867?v=4" width="100px;" alt=""/><br/><sub><b>박진우</b></sub></a></td>
