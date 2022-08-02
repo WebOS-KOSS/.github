@@ -20,6 +20,9 @@
     <td align="center"><a href="https://github.com/ymw0407"><img src="https://avatars.githubusercontent.com/u/77202633?v=4" width="100px;" alt=""/><br/><sub><b>윤민우</b><sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/judyzero"><img src="https://avatars.githubusercontent.com/u/100904133?v=4" width="100px;" alt=""/><br /><sub><b>유다영</b></sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><td>
   </tr>
 </table>
