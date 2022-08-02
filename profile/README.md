@@ -21,6 +21,6 @@
     <td align="center"><a href="https://github.com/judyzero"><img src="https://avatars.githubusercontent.com/u/100904133?v=4" width="100px;" alt=""/><br /><sub><b>유다영</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><td>
+    <td align="center">팀장</td><td align="center">팀원</td><td align="center">팀원</td><td align="center">팀원</td><td align="center">팀원</td>
   </tr>
 </table>
