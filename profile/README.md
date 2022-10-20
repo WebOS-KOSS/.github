@@ -6,7 +6,7 @@
 
 
 <!-- ## 개발 요약 -->
-<div align="center"><img src="Home.jpg" width="500px;" alt="" /></div>
+<div align="center"><img src="https://github.com/webOS-KOSS/.github/blob/main/profile/Home.jpg" width="500px;" alt="" /></div>
 
 ### 작품명 : Home++
 
