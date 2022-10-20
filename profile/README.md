@@ -18,14 +18,14 @@
 
 ## 기능
 
-- <a href="">앱 스토어</a>
-- <a href="">배달 도난 방지 기능</a>
-- <a href="">CCTV 기능</a>
-- <a href="">운동 보조 기능</a>
-- <a href="">가전 제어 기능 & 게시판 기능</a>
-- <a href="">차량 스케줄링 기능</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-AppStore">앱 스토어</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-Delivery">배달 도난 방지 기능</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-CCTV">CCTV 기능</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-HomeTraining/wallpad/exercise">운동 보조 기능</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-NoticeAlert">가전 제어 기능 & 게시판 기능</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/main-CarScheduling">차량 스케줄링 기능</a>
 ---
-- <a href="">EC2 서버</a>
+- <a href="https://github.com/ymw0407/2022ESWContest_webOS_3013/tree/master/EC2">EC2 서버</a>
 
 <br>
 
@@ -111,4 +111,4 @@
 | <div align="center"><a href="https://github.com/seiyoon"><img src="https://avatars.githubusercontent.com/seiyoon" width="70px;" alt=""/><br/><sub><b>황세윤</b><sub></a></div> | 팀원 | UI | ReactJS |
 | <div align="center"><a href="https://github.com/judyzero"><img src="https://avatars.githubusercontent.com/u/100904133?v=4" width="70px;" alt=""/><br/><sub><b>유다영</b></sub></a></div> | 팀원 | Server, DB | NodeJS, MongoDB |
 | <div align="center"><a href="https://github.com/jjunh33"><img src="https://avatars.githubusercontent.com/u/57091983?v=4" width="70px;" alt=""/><br/><sub><b>이준혁</b></sub></a></div> | 팀원 | Service, HW, CV | Arduino, NodeJS, Python, Media Pipe |
-| <div align="center"><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/39232867?v=4" width="70px;" alt=""/><br/><sub><b>박진우</b></sub></a></div> | 팀원 | Service, UI, Server | ReactJS, EnactJS, NodeJS, Python, Yolo V5 |
+| <div align="center"><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/39232867?v=4" width="70px;" alt=""/><br/><sub><b>박진우</b></sub></a></div> | 팀원 | Service, UI, Server, CV | ReactJS, EnactJS, NodeJS, Python, Yolo V5 |
